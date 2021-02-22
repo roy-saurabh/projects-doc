@@ -1007,7 +1007,7 @@ only contain one single expression, so the following will NOT work:
 
 \<!\-- flow control won\'t work either, use ternary expressions \--\>
 
-{{ if (ok) { return message } }}
+{{ if (ok) { return message }}}
 
 ## [\#](https://v3.vuejs.org/guide/template-syntax.html#directives)Directives
 
