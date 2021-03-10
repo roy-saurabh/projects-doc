@@ -760,7 +760,7 @@ These expressions will be evaluated as JavaScript in the data scope of the curre
 
 \&lt;!-- flow control won&#39;t work either, use ternary expressions --\&gt;
 
-{{ if (ok) { return message } }}
+{{ if (ok) { return message }}}
 
 ## [#](https://v3.vuejs.org/guide/template-syntax.html#directives)Directives
 
