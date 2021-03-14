@@ -27,10 +27,6 @@
 
 [Key relevant GitLab documentation](#_2fsmqzb6mnjj)
 
-[Popular topics](#_wzdgwja1q87l)
-
-[The entire DevOps lifecycle](#_djl7qdslnk5g)
-
 [Introduction](#_xf76c6dp1j4p)
 
 [Helping the community](#_82ruq0qb9mlg)
@@ -69,126 +65,6 @@
 
 [Custom Vue Event Bus (VBUS)](#_9lf559lkzuez)
 
-[Application &amp; Component Instances](#_8mwp277kdbpp)
-
-[Creating an Application Instance](#_7tbuu1syh0q4)
-
-[#The Root Component](#_rmt8l8omdy41)
-
-[#Component Instance Properties](#_u71pa4x5femg)
-
-[#Lifecycle Hooks](#_je6azz1grbkn)
-
-[#Lifecycle Diagram](#_xdx8f6uv7s3w)
-
-[Template Syntax](#_vpkcvoowy38m)
-
-[#Interpolations](#_a51d2tq2kk7k)
-
-[#Text](#_o4uwuuxehavw)
-
-[#Raw HTML](#_mtbvcgqber82)
-
-[#Attributes](#_9amrir5ypnxi)
-
-[#Using JavaScript Expressions](#_n9j9dzqj8dcs)
-
-[#Directives](#_wygfp82ubjz8)
-
-[#Arguments](#_7her7pafi7rf)
-
-[#Dynamic Arguments](#_pzvcr0cu7y2d)
-
-[#Modifiers](#_noefgkwg128d)
-
-[#Shorthands](#_kzftareaaih)
-
-[#Caveats](#_jsgvv4hsfrge)
-
-[#Dynamic Argument Value Constraints](#_9wt4n4g4jbqq)
-
-[#Dynamic Argument Expression Constraints](#_jnh06vtspc4v)
-
-[Data Properties and Methods](#_y1qflc8pfunh)
-
-[#Data Properties](#_puazugisnhkv)
-
-[#Methods](#_2bwzac41snj6)
-
-[Computed Properties and Watchers](#_ve49nmce3i1r)
-
-[#Computed Properties](#_ijz8hjdh77m0)
-
-[#Basic Example](#_x4tkzn6yk09o)
-
-[#Computed Caching vs Methods](#_mcdtys44khnd)
-
-[#Computed Setter](#_d4cf3fvpy9nz)
-
-[#Watchers](#_18lt178pax3n)
-
-[#Computed vs Watched Property](#_rnpbsc1wm7)
-
-[Class and Style Bindings](#_23j6we7q8w9d)
-
-[#Binding HTML Classes](#_m3h87wzh99s2)
-
-[#Object Syntax](#_h44jgyq02vs2)
-
-[#Array Syntax](#_psm7sgqd6rct)
-
-[#With Components](#_ef6zu16t7tfs)
-
-[#Binding Inline Styles](#_y1j7sahy41n7)
-
-[#Object Syntax](#_sw7oktigeo6)
-
-[#Array Syntax](#_ts4n0sp3ovaj)
-
-[#Auto-prefixing](#_xs8xeg27xp40)
-
-[#Multiple Values](#_av9e04bxfxu6)
-
-[Conditional Rendering](#_6c4fhh7ea41w)
-
-[#v-if](#_6ih6f3ragzhe)
-
-[#Conditional Groups with v-if on \&lt;template\&gt;](#_sl2nxps88lv7)
-
-[#v-else](#_1nd3lz6mwcjl)
-
-[#v-else-if](#_jwd44ixzkls0)
-
-[#v-show](#_6sxxab8ux9y7)
-
-[#v-if vs v-show](#_xmgak534vmwr)
-
-[#v-if with v-for](#_5mpgededv75z)
-
-[List Rendering](#_crp91cor6rmg)
-
-[#Mapping an Array to Elements with v-for](#_1zfyp2p7jywg)
-
-[#v-for with an Object](#_bgx8bzb2c44s)
-
-[#Maintaining State](#_z23z3bv1ezbv)
-
-[#Array Change Detection](#_b7afhx7gto5y)
-
-[#Mutation Methods](#_10j204akafrm)
-
-[#Replacing an Array](#_sft36h2in7zb)
-
-[#Displaying Filtered/Sorted Results](#_5siycxnm1g39)
-
-[#v-for with a Range](#_3aqck2txee0v)
-
-[#v-for on a \&lt;template\&gt;](#_9sc0lckqr28c)
-
-[#v-for with v-if](#_nbcmpp1nudrx)
-
-[#v-for with a Component](#_7b2zv5sua9se)
-
 [Main Files](#_gmrxgjtv6wun)
 
 [App.vue](#_thxmcj7kt994)
@@ -220,6 +96,70 @@
 [Admin Sidebar (vue)](#_251iuf43ptm)
 
 [Menu Item (vue)](#_251iuf43ptm)
+
+[Charts](#_ibd6s45ugujf)
+
+[DoughnutChart.vue](#_rcfxwv11zito)
+
+[LineChart.vue](#_qljjno3z0lu8)
+
+[BarChart.vue](#_o3bprr82qldr)
+
+[Form](#_krmgw2smadxq)
+
+[TextInput.vue](#_zhqj4a8c39rh)
+
+[TextArea.vue](#_gx4adfa08vb)
+
+[Message](#_pc25eclkgs4j)
+
+[MessageSuccess.vue](#_nrbmu7e2wfwh)
+
+[Modals](#_6057wfy3thol)
+
+[ModalInfo.vue](#_euoebzdxol9c)
+
+[ProjectTypes](#_fdx8y1bmb9e0)
+
+[AddEditTypeForm.vue](#_byhj5wr7py8e)
+
+[ProjectTypesList.vue](#_azd1pg7l0tm9)
+
+[ClipBoard.vue](#_uyblk9ccwo7y)
+
+[ProjectList.vue](#_bw13hmx38qsa)
+
+[MultiButtonSelect.vue](#_blui8hvnzd41)
+
+[FormUpload.vue](#_rrshfqwmmj7j)
+
+[headUpload.vue](#_z5fd2fiakg6l)
+
+[imgUpload.vue](#_2j9651lopu2c)
+
+[ProjectCard.vue](#_flcbev74gif)
+
+[PageSummary.vue](#_w5k4ofjxunma)
+
+[fileUpload.vue](#_g9h4pwpba5o7)
+
+[OrgsChart.vue](#_kycorx4q2b94)
+
+[SdgCard.vue](#_kf2vxb9yghj)
+
+[UserCard.vue](#_50wv1nwe6ai8)
+
+[Onboarding.vue](#_m7tvmc7k629v)
+
+[SetFilters.vue](#_5cnbexf7uigx)
+
+[SideBar.vue](#_njqk7vp4k4cs)
+
+[SdgsChart.vue](#_drlzk6hem2ty)
+
+[TimeOrgChart.vue](#_glijbkrzrz5q)
+
+[ConceptsChart.vue](#_lo85jvjwakdj)
 
 [Functions](#_txco1thp5xs3)
 
@@ -323,6 +263,124 @@
 
 [### TPL](#_bsj2sml1ezcg)
 
+[Application &amp; Component Instances](#_8mwp277kdbpp)
+
+[Creating an Application Instance](#_7tbuu1syh0q4)
+
+[#The Root Component](#_rmt8l8omdy41)
+
+[#Component Instance Properties](#_u71pa4x5femg)
+
+[#Lifecycle Hooks](#_je6azz1grbkn)
+
+[#Lifecycle Diagram](#_xdx8f6uv7s3w)
+
+[Template Syntax](#_vpkcvoowy38m)
+
+[#Interpolations](#_a51d2tq2kk7k)
+
+[#Text](#_o4uwuuxehavw)
+
+[#Raw HTML](#_mtbvcgqber82)
+
+[#Attributes](#_9amrir5ypnxi)
+
+[#Using JavaScript Expressions](#_n9j9dzqj8dcs)
+
+[#Directives](#_wygfp82ubjz8)
+
+[#Arguments](#_7her7pafi7rf)
+
+[#Dynamic Arguments](#_pzvcr0cu7y2d)
+
+[#Modifiers](#_noefgkwg128d)
+
+[#Shorthands](#_kzftareaaih)
+
+[#Caveats](#_jsgvv4hsfrge)
+
+[#Dynamic Argument Value Constraints](#_9wt4n4g4jbqq)
+
+[#Dynamic Argument Expression Constraints](#_jnh06vtspc4v)
+
+[Data Properties and Methods](#_y1qflc8pfunh)
+
+[#Data Properties](#_puazugisnhkv)
+
+[#Methods](#_2bwzac41snj6)
+
+[Computed Properties and Watchers](#_ve49nmce3i1r)
+
+[#Computed Properties](#_ijz8hjdh77m0)
+
+[#Basic Example](#_x4tkzn6yk09o)
+
+[#Computed Caching vs Methods](#_mcdtys44khnd)
+
+[#Computed Setter](#_d4cf3fvpy9nz)
+
+[#Watchers](#_18lt178pax3n)
+
+[#Computed vs Watched Property](#_rnpbsc1wm7)
+
+[Class and Style Bindings](#_23j6we7q8w9d)
+
+[#Binding HTML Classes](#_m3h87wzh99s2)
+
+[#Object Syntax](#_h44jgyq02vs2)
+
+[#Array Syntax](#_psm7sgqd6rct)
+
+[#With Components](#_ef6zu16t7tfs)
+
+[#Binding Inline Styles](#_y1j7sahy41n7)
+
+[#Object Syntax](#_sw7oktigeo6)
+
+[#Array Syntax](#_ts4n0sp3ovaj)
+
+[#Auto-prefixing](#_xs8xeg27xp40)
+
+[#Multiple Values](#_av9e04bxfxu6)
+
+[Conditional Rendering](#_6c4fhh7ea41w)
+
+[#v-if](#_6ih6f3ragzhe)
+
+[#Conditional Groups with v-if on \&lt;template\&gt;](#_sl2nxps88lv7)
+
+[#v-else](#_1nd3lz6mwcjl)
+
+[#v-else-if](#_jwd44ixzkls0)
+
+[#v-show](#_6sxxab8ux9y7)
+
+[#v-if vs v-show](#_xmgak534vmwr)
+
+[List Rendering](#_crp91cor6rmg)
+
+[#Mapping an Array to Elements with v-for](#_1zfyp2p7jywg)
+
+[#v-for with an Object](#_bgx8bzb2c44s)
+
+[#Maintaining State](#_z23z3bv1ezbv)
+
+[#Array Change Detection](#_b7afhx7gto5y)
+
+[#Mutation Methods](#_10j204akafrm)
+
+[#Replacing an Array](#_sft36h2in7zb)
+
+[#Displaying Filtered/Sorted Results](#_5siycxnm1g39)
+
+[#v-for with a Range](#_3aqck2txee0v)
+
+[#v-for on a \&lt;template\&gt;](#_9sc0lckqr28c)
+
+[#v-for with v-if](#_nbcmpp1nudrx)
+
+[#v-for with a Component](#_7b2zv5sua9se)
+
 #
 
 
@@ -341,6 +399,8 @@ We replicate the environmental configuration to build a pre-production environme
 ## Architecture
 
 The Projects Platform API server is developed in Python using the Flask micro framework. The data &amp; state of the platform are stored in MongoDB. Socket.IO server running under python enables real-time, bidirectional and event-based communication. The client side rendering of DOM of the Project application leverages VueJS and synchronous interactions are managed by the socket.io and prosemirror client libraries.
+
+\&lt;\&lt;Architecture Diagram\&gt;\&gt;
 
 ## Release Notes
 
@@ -448,31 +508,7 @@ Here you can access the complete documentation for GitLab, the single applicatio
 | [User documentation](https://docs.gitlab.com/ee/user/index.html)Discover features and concepts for GitLab users. | [Administrator documentation](https://docs.gitlab.com/ee/administration/index.html)Everything GitLab self-managed administrators need to know. |
 | [Contributing to GitLab](https://docs.gitlab.com/ee/README.html#contributing-to-gitlab)At GitLab, everyone can contribute! | [New to Git and GitLab?](https://docs.gitlab.com/ee/README.html#new-to-git-and-gitlab)We have the resources to get you started. |
 | [Build an integration with GitLab](https://docs.gitlab.com/ee/README.html#build-an-integration-with-gitlab)Consult our integration documentation. | [Coming to GitLab from another platform?](https://docs.gitlab.com/ee/README.html#coming-to-gitlab-from-another-platform)Consult our guides. |
-| [Install GitLab](https://about.gitlab.com/install/)Installation options for different platforms. | [Customers](https://docs.gitlab.com/ee/subscriptions/index.html)Information for new and existing customers. |
-| [Update GitLab](https://docs.gitlab.com/ee/update/index.html)Update your GitLab self-managed instance to the latest version. | [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/index.html)GitLab reference architectures. |
-| [GitLab releases](https://about.gitlab.com/releases/)What&#39;s new in GitLab. | |
-
-#### Popular topics
-
-Have a look at some of our most popular topics:
-
-| **Popular topic** | **Description** |
-| --- | --- |
-| [Two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) | Improve the security of your GitLab account. |
-| [GitLab groups](https://docs.gitlab.com/ee/user/group/index.html) | Manage projects together. |
-| [GitLab CI/CD pipeline configuration reference](https://docs.gitlab.com/ee/ci/yaml/README.html) | Available configuration options for .gitlab-ci.yml files. |
-| [Activate GitLab EE with a license](https://docs.gitlab.com/ee/user/admin_area/license.html) | Activate GitLab Enterprise Edition functionality with a license. |
-| [Back up and restore GitLab](https://docs.gitlab.com/ee/raketasks/backup_restore.html) | Rake tasks for backing up and restoring GitLab self-managed instances. |
-| [GitLab release and maintenance policy](https://docs.gitlab.com/ee/policy/maintenance.html) | Policies for version naming and cadence, and also upgrade recommendations. |
-| [Elasticsearch integration](https://docs.gitlab.com/ee/integration/elasticsearch.html) | Integrate Elasticsearch with GitLab to enable advanced searching. |
-| [Omnibus GitLab database settings](https://docs.gitlab.com/omnibus/settings/database.html) | Database settings for Omnibus GitLab self-managed instances. |
-| [Omnibus GitLab NGINX settings](https://docs.gitlab.com/omnibus/settings/nginx.html) | NGINX settings for Omnibus GitLab self-managed instances. |
-| [Omnibus GitLab SSL configuration](https://docs.gitlab.com/omnibus/settings/ssl.html) | SSL settings for Omnibus GitLab self-managed instances. |
-| [GitLab.com settings](https://docs.gitlab.com/ee/user/gitlab_com/index.html) | Settings used for GitLab.com. |
-
-#### The entire DevOps lifecycle
-
-GitLab is the application for software development, security, and operations that enables [Concurrent DevOps](https://about.gitlab.com/topics/concurrent-devops/). GitLab makes the software lifecycle faster and radically improves the speed of business. Git is directly configured so you can add your own gitlab CRI alias and start creating your own feature branch.
+| [Install GitLab](https://about.gitlab.com/install/)Installation options for different platforms. | [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/index.html)GitLab reference architectures. |
 
 # Introduction
 
@@ -558,37 +594,444 @@ So then in a completely unrelated component you would need to hook into that eve
 
 The Publisher-Subscriber pattern we will use to allow components to subscribe to an event. Then other components can publish an event and all subscribers can then react to that. Two main methods to allow subscription and the ability to publish to those subscribers. Again this then means we get access in every component to the PubSub instance via this.$pubSub. So then we must subscribe to some components, a good example would be a bunch of show/hide panel components, they all can open independently. You wish to have a button elsewhere in the application that you would want to have the ability to close all those other panel components with one click. So here we see that we will use mounted() to subscribe to an event called closePanels. When it is invoked then we will run our localMethod to close the panel. So this time our click event will run this. $pubSub.publish(&#39;closePanels&#39;), which will inform all subscribers to run and thus close them all. We have run through different ways to utilise communication throughout your VueJs Application. We have used event systems and we have used some patterns to help the way these components communicate. Again it is trying to find the right time to use each and when.
 
+# Main Files
+
+## App.vue
+
+App.vue is a Single File Component and is a great way to create self-contained components that have all they need in a single file. We have the markup, the JavaScript that is going to interact with it, and style that&#39;s applied to it, which can be scoped, or not. In this case, it&#39;s not scoped, and it&#39;s just outputting that CSS which is applied like regular CSS to the page. The interesting part lies in the script tag where all relevant components are declared as a dependency. ![](RackMultipart20210314-4-1cj9idm_html_8d432fe38af9822e.png)
+
+When a Vue instance is created, it adds all the properties found in its data object to Vue&#39;s reactivity system. When the values of those properties change, the view will &quot;react&quot;, updating to match the new values. When \&lt;\&lt; data \&gt;\&gt; changes, the view will re-render. It should be noted that properties in data are only reactive if they existed when the instance was created.
+
+VBUS - custom event bus for letting unrelated components talk to each other. Initialize Top bar, footer, relevant theme scss file and relevant styling class(es)
+
+## Miniwin.vue
+
+All key components along with agrs &amp; necessary transitions to form a Mini Window for Projects Platform. It is one the key components along with TopBar, Big Window, Application Dialog, Popup &amp; Message components to show the information and preview Project data.
+
+## Msg.vue
+
+Leverage UserCard for displaying messages of the passed argument with appropriate transitions.
+
+## BigWin.vue
+
+We can use the v-on directive to listen to DOM events and run some JavaScript when they&#39;re triggered. Detects the mode in which the Projects platform is being utilized.
+
+## **TopBar.vue**
+
+TopBar components with the relevant logo information (based on organizations) along with portal language, search portal button with material icons for small display sizes, online help documentation along with project category icon. Google login button redirects them to keycloak login, logout windows based on user authentication status. The TopBar is a shared component that includes organization brand collaterals (conditional logo &amp; branding), portal language (currently English, French &amp; Simplified Chinese), search (currently database search not elastic search), contextual help (end user documentation) and user&#39;s profile avatar and name(if user is logged in).
+
+![](RackMultipart20210314-4-1cj9idm_html_d0f4517a60ada609.png)
+
+## **Main.css**
+
+Key CSS file for #APP and other key views stylings.
+
+## **Main.js**
+
+Key js consequential file where the Projects platform starts. The external libraries like JQuery, Leaflet, Bulma, Axios etc. are imported in main.js. This is where the global inter component communication bus **VBUS** is initialized along with pre-configuring Axios according to the organization id .
+
+Computed properties let perform complex operations or data formatting while maximizing performance with dependency calculations that only update the view when a dependency changes. This feature is synchronous. However, we leverage the _vue-async-computed_ package to create and consume asynchronous computed properties in projects&#39; components by binding the resolved value of a Promise to a component property.
+
+The **Translate** function uses Translate JSON file to make Projects platform multilingual to include multiple labels in multiple languages to be swapped on user selection. The toHtmlTB function makes addition or deletion of language(s) easy &amp; modular.
+
+This is the file that initializes export of Global Shared Object (GS) as a substitute for state handling external libraries like Vuex. The object seeds the categories according to the organizations along with the API data properties linked to the user(people) and the organization. We use [**URLSearchParams**](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams) to define utility methods to work with the query string of a URL. GS object implementing URLSearchParams can directly be used in a &quot;for...of&quot; structure that allows us to manipulate the state and check connection by returning the first value associated with the given search parameter and allowing iteration through all keys of the key/value pairs contained in this object. Key point to note is that URLSearchParams constructor does not parse full URLs. However, it will strip an initial leading ? off of a string, if present.
+
+The **history**. **replaceState** () method modifies the current history entry, replacing it with the stateObj, title, and URL passed in the method parameters. This method is particularly useful when you want to update the state object or URL of the current history entry in response to some user action.
+
+![](RackMultipart20210314-4-1cj9idm_html_d3ee22e7f82e4974.png)
+
+We leverage AXIOS post to send bearer tokens where the first parameter is the URL. The second is the JSON body that will be sent along the request. The third parameter are the headers (among other things), which is JSON as well.
+
+![](RackMultipart20210314-4-1cj9idm_html_5d76e8657be4643c.png)
+
+The same helps ascertain users authorization levels and check the connection loop to initialize Projects Platform in the right state based on user&#39;s authorization &amp; authentication level. Projects Platform application uses function **initProjects** () to configure all the global Axios defaults. [Axios interceptors](https://github.com/axios/axios#interceptors) intercept requests or responses before they are handled by then or catch. The interceptors are used to append every request with XSRF tokens for security and to catch all global errors and return AMIGA guru meditation errors(What!!!) linked with 401, 403, 417, 422, 501 error codes. Key thing to note is that the request interceptors are presumed to be asynchronous by default. This can cause a delay in the execution of the axios request when the main thread is blocked (a promise is created under the hood for the interceptor and the request gets put on the bottom of the call stack). If request interceptors are synchronous we could add a flag to the options object that will tell axios to run the code synchronously and avoid any delays in request execution. The initialize function sets the current theme, portal language and relevant organization parameters including main categories, stylings.
+
+## **Router.js**
+
+Router file leverages Vue Router to put all the Projects platform components in hierarchy explicitly mentioning child parent relationships (route nesting). The key part to focus on in this file is that the routes of our Vue app are defined via an array that contains objects. Each route object contains three key properties:
+
+- Path - what URL should match to the component.
+- Name - what this route should be named for labeling and debugging purposes.
+- Component - the component that should be displayed when the path is matched.
+
+## **AppDialog.vue**
+
+Parent component of Gallery &amp; Video provider choosing components that allows inclusion of Image gallery &amp; Video embed components.
+
+## **PopUp.vue**
+
+Parent component for Error, Info &amp; Progress components with mode &amp; arguments as props with relevant transitions.
+
+# Shared Components
+
+## Admin Sidebar
+
+#### Admin Routes (js)
+
+#### Admin Sidebar (vue)
+
+#### Menu Item (vue)
+
+## Charts
+
+#### DoughnutChart.vue
+
+#### LineChart.vue
+
+#### BarChart.vue
+
+## Form
+
+#### TextInput.vue
+
+#### TextArea.vue
+
+## Message
+
+#### MessageSuccess.vue
+
+## Modals
+
+#### ModalInfo.vue
+
+## ProjectTypes
+
+#### AddEditTypeForm.vue
+
+#### ProjectTypesList.vue
+
+### ClipBoard.vue
+
+Specific component for copying, pasting, deleting &amp; selecting resource links using pasteRes, delres, selectRes methods that helps check the current status of object utilizing project id through Global Shared object GS. Using setTimeout() to set time sensitive end user notifications to indicate the current status of clipboard.
+
+![](RackMultipart20210314-4-1cj9idm_html_34a9fb230b81f1df.png)
+
+![](RackMultipart20210314-4-1cj9idm_html_d5efeae87c64c753.png) ![](RackMultipart20210314-4-1cj9idm_html_cc85ad811c9fe1a2.png)
+
+### ProjectList.vue
+
+Key component that has all the controls while trying to list the projects. The same supports pagination with relevant legend, page numbers, page navigation in a responsive design. Sort by options &amp; Filter by Type along with v-for to loop through all project types as filters.
+
+![](RackMultipart20210314-4-1cj9idm_html_e2afd8edbbbf649a.png)
+
+![](RackMultipart20210314-4-1cj9idm_html_923980244a85f5c.png)
+
+Get projects by project&#39;s shortid, search projects by categories, people, language, SDGs &amp; concepts leveraging JSON.stringify() that converts a JavaScript value to a JSON string which might be sometimes a bit unpredictable. We leverage Lodash that makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc. and Lodash&#39;s modular methods are great for: Iterating arrays, objects, &amp; strings, manipulating &amp; testing values &amp; creating composite functions. The project list fetches projects based on recommended, last active or random orders. Display components and respective containers (block display) if the projects are found when mode is &#39;Browse&#39; and by &#39;concepts&#39;.
+
+![](RackMultipart20210314-4-1cj9idm_html_90b96c6502edc160.png)
+
+### MultiButtonSelect.vue
+
+Specific component for the multi button select that passes option value to the key using v-for for all the select options.
+
+![](RackMultipart20210314-4-1cj9idm_html_74d178f4cd5ac544.png)
+
+### FormUpload.vue
+
+Specific component that helps upload pictures here to change current header images for the project through input file dialog and handle error with regards to file size, types or image resolutions. The methods like reset, save (image upload), fileschange allow append image to form data and throw errors with respect to image resolutions violate constraints.
+
+![](RackMultipart20210314-4-1cj9idm_html_1b2532925597b31c.png)
+
+### headUpload.vue
+
+Specific component that helps show the exact status of upload image files including initializing, saving and upload status of the image file(s). Appends the file(s) to the formdata.
+
+![](RackMultipart20210314-4-1cj9idm_html_3c10a247edd6bf41.png)
+
+### imgUpload.vue
+
+Specific component that helps upload images to the project gallery by adding an image and return file upload status. Handle errors and leverages cancel, reset, save, filesChange, onImageChange, uploadImage to append the files to FormData.
+
+![](RackMultipart20210314-4-1cj9idm_html_40ae4f2c44685366.png)
+
+### ProjectCard.vue
+
+### PageSummary.vue
+
+### fileUpload.vue
+
+### OrgsChart.vue
+
+### SdgCard.vue
+
+### UserCard.vue
+
+### Onboarding.vue
+
+### SetFilters.vue
+
+### SideBar.vue
+
+### SdgsChart.vue
+
+### TimeOrgChart.vue
+
+### ConceptsChart.vue
+
+# Functions
+
+### API
+
+### Organizations Services (js)
+
+Specific file for retrieving &amp; updating leveraging AXIOS Get &amp; Patch operations. The filter for fetching organisations according to concepts and using getAxiosConfig with etag token for updating respective organizations passing the formData as an argument from the Portal general Admin component.
+
+### Types Services (js)
+
+Specialized file for projects&#39; types that helps projects platform users thematically differentiate the projects. There CRUD operations around the project types that are synchronous(mainly get(getType) and filter operations by respective organizations(getTypesByOrg)) or asynchronous leveraging Axios post(addType), patch(updateType), delete(deleteType).
+
+### API services (js)
+
+Central definition for all the relevant functions that are utilized across the Projects platform code including Image upload, file upload, search in PeopleAPI, get specific user, wiki concepts (category) &amp; project, publish projects, project CRUD dispositions, project categories, blog entries, SDGs, 3rd party resources, project reviews &amp; comments, organization(s) and make GET, POST, PATCH, DELETE request(s) using Axios to get, push, patch, post and delete data to/from a given endpoint and trigger events.
+
+Imports Global shared(GS) object and utilizes a 3rd party library like Axios that is an HTTP client library which uses promises by default and runs on both the client and the server, which makes it appropriate for fetching data during server-side rendering. Because it uses promises, we combine it with async/await to get a concise and easy-to-use API.
+
+### Constants (js)
+
+Declare constants in a separate constants.js file which we can require into the other Vue component:
+
+- Sustainable Development Goals(SDG) Codes
+- SDG labels
+- SDG Colors
+- Months
+- Media file Upload Constraints
+
+### Dotatlas (js)
+
+dotAtlas is a JavaScript library for interactive exploration of 2d point collections. dotAtlas can produce zoomable visualizations similar to the one shown below. They combine various types of layers, such as elevations, markers or labels, to produce an attractive map-like presentation of your data.
+
+![](RackMultipart20210314-4-1cj9idm_html_d04864ca03764aa3.jpg)
+
+![](RackMultipart20210314-4-1cj9idm_html_237499165a11f2b9.gif)
+
+dotAtlas, in essence, is a map-like visualization of 2d points for browsers.
+
+- Customizable colors, sizes, shapes, opacities, elevations and textual labels for all the points.
+- Independent control of the elevations, markers, outline and label layers.
+- Built-in finding clusters of nearby points for easy multi-point hover and selection.
+- WebGL-based implementation for 60 FPS interaction animations, also with large data sets.
+
+There are three ways to get started with dotAtlas:
+
+- [Quick start](https://get.carrotsearch.com/dotatlas/latest/doc/quick-start/): setting up your first simple dotAtlas visualization with a minimal amount of code.
+- Guides: in-depth articles covering various aspects of dotAtlas, such as [requirements](https://get.carrotsearch.com/dotatlas/latest/doc/requirements/), [installation](https://get.carrotsearch.com/dotatlas/latest/doc/installation/), [API overview](https://get.carrotsearch.com/dotatlas/latest/doc/api-overview/), [defining layers](https://get.carrotsearch.com/dotatlas/latest/doc/defining-layers/), [listening to events](https://get.carrotsearch.com/dotatlas/latest/doc/listening-to-events/) and more.
+- [Tutorial](https://get.carrotsearch.com/dotatlas/latest/doc/tutorial/): step by step instructions on building a more complex dotAtlas visualization, including: layer set-up, handling user interactions and implementing hover and selection highlights.
+
+Finally, the [API](https://get.carrotsearch.com/dotatlas/latest/doc/api-common/)[references](https://get.carrotsearch.com/dotatlas/latest/doc/api-dotatlas/) contain details on all the available options and methods.
+
+### Functions (js)
+
+Key functions that export the authorization and authentication of the user and provide appropriate privileges including project edit, publish &amp; review rights to the user and relevant project(s). Key functions to copy objects simply, user authentication &amp; authorization with regards to the Project resources, check email; URL validity etc.
+
+# Pages
+
+## Admin Pages
+
+## Sub Pages - Components
+
+## Main Pages - Components
+
+# Window Components
+
+## Application Dialogs
+
+### Gallery.vue
+
+Dedicated component uploading images to the project from the local system and prompts warning text when there aren&#39;t any images linked with the project. The component methods include add images, select images, insert images, cancel select images, get image details, load images, delete images with relevant transitions. Load Images (loadImagesPrevNext) leverages Axios GET to immediately send requests to the server including image meta information. ![](RackMultipart20210314-4-1cj9idm_html_f077cc73db64adf8.png)
+
+![](RackMultipart20210314-4-1cj9idm_html_e16d643254e4f464.png)
+
+### VideoProviderChooser.vue
+
+Dedicated component to choose videos to the project from the local system and prompts warning text when there aren&#39;t any images linked with the project. The component methods include validate video links, add video, add images, select video, insert videos, cancel select, get video details, load video, delete video with relevant transitions. Validate video links (validateVideoLink) leverages Axios GET to immediately send requests to the server including links meta information. The function checks the URL validity if the whole URL gets entered or just the shortid of Vimeo or YouTube.
+
+![](RackMultipart20210314-4-1cj9idm_html_1e9f987a764472b.png)
+
+## Mini Windows
+
+### Copy.vue
+
+Specific component for copying resources &amp; cancel using copyObj and runCB methods emitting mini window through custom event bus (VBUS).
+
+![](RackMultipart20210314-4-1cj9idm_html_1d4b755a928dd0d0.png)
+
+### CopyLink.vue
+
+The component that is used in the Project Blog component to copy the link of an added blog entry for easy sharing. The same leverages Props argument to get event &amp; linkid from ProjectBlog.vue to construct the URL(makelink) in format: window.location.origin + &quot;/projects/&quot; + GS.currentprojectid +&quot;/blogentries?b=&quot;+self.args.linkid (e.g. [https://dev.cri-paris.org:43103/projects/VCstJe3S/blogentries?b=603f5697cfd658c33a1b5d51](https://dev.cri-paris.org:43103/projects/VCstJe3S/blogentries?b=603f5697cfd658c33a1b5d51))
+
+![](RackMultipart20210314-4-1cj9idm_html_1fd39c9ea37b6c73.png)
+
+### EditResFile.vue
+
+Specific component to edit each of the file resources using patchRes method through custom event bus (VBUS). The component uses respatch function and passes current obj.\_id along with modified data to the api respatch function.
+
+### ![](RackMultipart20210314-4-1cj9idm_html_ea3bf94f465c7f20.png)
+
+### Edit ResLink.vue
+
+Specific component to edit each of the URL link resources using patchRes method through custom event bus (VBUS). The component uses respatch function and passes current obj.\_id, along with modified data to the api respatch function. The component loops through link categories (resource categories) from the constants file.
+
+![](RackMultipart20210314-4-1cj9idm_html_dc766100d150854e.png)
+
+### EditResProject.vue
+
+Specific component for the mini window to edit each of the Project resources using patchRes method through custom event bus (VBUS). The component uses respatch function and passes current obj.\_id, along with modified data to the api respatch function. The component loops through link categories along with project categories (resource categories from English &amp; French) from the constants file. The same also includes TextInput from shared components to allow the user to annotate the link reason.
+
+![](RackMultipart20210314-4-1cj9idm_html_771c68478cc75ce8.png)
+
+### MiniInfo.vue
+
+Specific component for passing content title &amp; description as argument content&#39;s title &amp; description to Mini window component.
+
+##### ![](RackMultipart20210314-4-1cj9idm_html_e175eddfcddc48c6.png)
+
+### UnsavedData.vue
+
+Specific component for confirming unsaved data of resource using runCB methods emitting mini window close through custom event bus (VBUS).
+
+### YesNo.vue
+
+Specific component for confirming deletion of resource using runCB methods emitting mini window close through custom event bus (VBUS).
+
+![](RackMultipart20210314-4-1cj9idm_html_f570a7cfc1d7555a.png)
+
+#####
+
+## Popup Windows
+
+# Translation Files
+
+# Routing
+
+# Transitions &amp; Animations
+
+# External Libraries
+
+### Vue.js
+
+[Vue.js](https://vuejs.org/) is a javascript web framework.
+
+### TipTap
+
+[TipTap](https://github.com/ueberdosis/tiptap) is a toolkit for building text editors. We are using the vue package for TipTap. TipTap is an extension to [ProseMirror](https://prosemirror.net/) that allows you to create new schemas directly in a vue way.
+
+This editor is used to edit a project&#39;s description or blog post.
+
+### Vue Leaflet
+
+[Vue Leaflet](https://vue2-leaflet.netlify.app/) is a vue package built on Leaflet.
+
+Leaflet is a strong package to build maps and interact with it.
+
+### Vue Color
+
+[Vue Color](https://github.com/xiaokaike/vue-color) is a vue color picker package. It provides a different picker from simple hex code to color choice with opacity.
+
+We are using it to let organization administrators select a background color for categories.
+
+### Axios
+
+[Axios](https://github.com/axios/axios) is an Http client.
+
+We are using it to manage HTTP calls to our API. It is based on promise.
+
+### Drag and resize
+
+[vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) is a package made for image resizing and dragging.
+
+We are using it on blog post and description when user upload images or videos
+
+### Bulma
+
+[Bulma](https://bulma.io/) is a CSS framework. We are using the basic version for responsibility and basic component class : Button, Grid etc.
+
+We are also using some components of [Bulma extension](https://bulma.io/extensions/) that bring css/js components like tooltip.
+
+### ChartJs
+
+[vue-chartjs](https://vue-chartjs.org/) is a vue wrapper to Chart.js
+
+We are using it to build chart in Stats page
+
+# State Management
+
+# Server side Rendering
+
+# Backend APIs
+
+### ### api
+
+APIs are registered here. Eve hooks and initialisation.
+
+### ### Authentication
+
+Endpoints about authentication are in `api_auth.py`. 2 authentication was available : CRIID and OPENID. CRIIS is legacy and only OPENID should be used. It should be move in /auth folder
+
+### ### api\_cstm
+
+This file contains all endpoints that are not handled by Eve. Those endpoints are built with Flask and the required package depends on what the service needs to do.
+
+### ### api\_funct
+
+api\_funct\_sec, api\_funct\_mail, api\_funct\_db Tools function. It would be a good idea to create a tools folder and put those file with a better naming
+
+### ### api\_private
+
+Endpoints for server authentication or IP restricted. Used for internal apps communication or client that need to consume data (eg. Organizations)
+
+### ### ref
+
+Reference API. Built to generate accessible projects pages for scrapping (like a custom Server-side-rendering). It will generate meta and project&#39;s images.
+
+### ### settings
+
+Eve configuration file. DB model are represent here with schema and allowed HTTP VERB
+
+### ### migrations
+
+It should contain all DB and file migration. Naming must be link to the version where the migration is needed (eg. v0.3.1)
+
+### ### exceptions
+
+It should contains python specific exceptions we create
+
+### ### TPL
+
+Should contain a flask template. There are used mainly for emails
+
+-------------------------
+
 # Application &amp; Component Instances
 
 ## Creating an Application Instance
 
 Every Vue application starts by creating a new application instance with the createApp function:
 
-const app = Vue.createApp({
+_const app = Vue.createApp({_
 
-/\* options \*/
+_/\* options \*/_
 
-})
+_})_
 
 The application instance is used to register &#39;globals&#39; that can then be used by components within that application. We&#39;ll discuss that in detail later in the guide but as a quick example:
 
-const app = Vue.createApp({})
+_const app = Vue.createApp({})_
 
-app.component(&#39;SearchInput&#39;, SearchInputComponent)
+_app.component(&#39;SearchInput&#39;, SearchInputComponent)_
 
-app.directive(&#39;focus&#39;, FocusDirective)
+_app.directive(&#39;focus&#39;, FocusDirective)_
 
-app.use(LocalePlugin)
+_app.use(LocalePlugin)_
 
-Most of the methods exposed by the application instance return that same instance, allowing for chaining:
+_Most of the methods exposed by the application instance return that same instance, allowing for chaining:_
 
-Vue.createApp({})
+_Vue.createApp({})_
 
-.component(&#39;SearchInput&#39;, SearchInputComponent)
+_.component(&#39;SearchInput&#39;, SearchInputComponent)_
 
-.directive(&#39;focus&#39;, FocusDirective)
+_.directive(&#39;focus&#39;, FocusDirective)_
 
-.use(LocalePlugin)
+_.use(LocalePlugin)_
 
 You can browse the full application API in the [API reference](https://v3.vuejs.org/api/application-api.html).
 
@@ -598,41 +1041,21 @@ The options passed to createApp are used to configure the root component. That c
 
 An application needs to be mounted into a DOM element. For example, if we want to mount a Vue application into \&lt;div id=&quot;app&quot;\&gt;\&lt;/div\&gt;, we should pass #app:
 
-const RootComponent = {
+_const RootComponent = {_
 
-/\* options \*/
+_/\* options \*/_
 
-}
+_}_
 
-const app = Vue.createApp(RootComponent)
+_const app = Vue.createApp(RootComponent)_
 
-const vm = app.mount(&#39;#app&#39;)
+_const vm = app.mount(&#39;#app&#39;)_
 
 Unlike most of the application methods, mount does not return the application. Instead it returns the root component instance.
 
 Although not strictly associated with the [MVVM pattern](https://en.wikipedia.org/wiki/Model_View_ViewModel), Vue&#39;s design was partly inspired by it. As a convention, we often use the variable vm (short for ViewModel) to refer to a component instance.
 
-While all the examples on this page only need a single component, most real applications are organized into a tree of nested, reusable components. For example, a Todo application&#39;s component tree might look like this:
-
-Root Component
-
-└─ TodoList
-
-├─ TodoItem
-
-│ ├─ DeleteTodoButton
-
-│ └─ EditTodoButton
-
-└─ TodoListFooter
-
-├─ ClearTodosButton
-
-└─ TodoListStatistics
-
-Each component will have its own component instance, vm. For some components, such as TodoItem, there will likely be multiple instances rendered at any one time. All of the component instances in this application will share the same application instance.
-
-We&#39;ll talk about [the component system](https://v3.vuejs.org/guide/component-basics.html) in detail later. For now, just be aware that the root component isn&#39;t really any different from any other component. The configuration options are the same, as is the behavior of the corresponding component instance.
+While all the examples on this page only need a single component, most real applications are organized into a tree of nested, reusable components. Each component will have its own component instance, vm. For some components, such as TodoItem, there will likely be multiple instances rendered at any one time. All of the component instances in this application will share the same application instance.
 
 ## [#](https://v3.vuejs.org/guide/instance.html#component-instance-properties)Component Instance Properties
 
@@ -662,31 +1085,31 @@ Each component instance goes through a series of initialization steps when it&#3
 
 For example, the [created](https://v3.vuejs.org/api/options-lifecycle-hooks.html#created) hook can be used to run code after an instance is created:
 
-Vue.createApp({
+_Vue.createApp({_
 
-data() {
+_data() {_
 
-return { count: 1 }
+_return { count: 1 }_
 
-},
+_},_
 
-created() {
+_created() {_
 
-// `this` points to the vm instance
+_// `this` points to the vm instance_
 
-console.log(&#39;count is: &#39; + this.count) // =\&gt; &quot;count is: 1&quot;
+_console.log(&#39;count is: &#39; + this.count) // =\&gt; &quot;count is: 1&quot;_
 
-}
+_}_
 
-})
+_})_
 
-There are also other hooks which will be called at different stages of the instance&#39;s lifecycle, such as [mounted](https://v3.vuejs.org/api/options-lifecycle-hooks.html#mounted), [updated](https://v3.vuejs.org/api/options-lifecycle-hooks.html#updated), and [unmounted](https://v3.vuejs.org/api/options-lifecycle-hooks.html#unmounted). All lifecycle hooks are called with this context pointing to the current active instance invoking it
+There are also other hooks which will be called at different stages of the instance&#39;s lifecycle, such as [mounted](https://v3.vuejs.org/api/options-lifecycle-hooks.html#mounted), [updated](https://v3.vuejs.org/api/options-lifecycle-hooks.html#updated), and [unmounted](https://v3.vuejs.org/api/options-lifecycle-hooks.html#unmounted). All lifecycle hooks are called with this context pointing to the current active instance invoking it.
 
 Don&#39;t use [arrow functions](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Functions/Arrow_functions)on an options property or callback, such as created: () =\&gt; console.log(this.a) or vm.$watch(&#39;a&#39;, newValue =\&gt; this.myMethod()). Since an arrow function doesn&#39;t have a this, this will be treated as any other variable and lexically looked up through parent scopes until found, often resulting in errors such as Uncaught TypeError: Cannot read property of undefined or Uncaught TypeError: this.myMethod is not a function.
 
 ## [#](https://v3.vuejs.org/guide/instance.html#lifecycle-diagram)Lifecycle Diagram
 
-Below is a diagram for the instance lifecycle. You don&#39;t need to fully understand everything going on right now, but as you learn and build more, it will be a useful reference. ![](RackMultipart20210310-4-fcaz0h_html_381214b743fb8be9.png)
+Below is a diagram for the instance lifecycle. You don&#39;t need to fully understand everything going on right now, but as you learn and build more, it will be a useful reference. ![](RackMultipart20210314-4-1cj9idm_html_381214b743fb8be9.png)
 
 # Template Syntax
 
@@ -714,9 +1137,9 @@ You can also perform one-time interpolations that do not update on data change b
 
 The double mustaches interpret the data as plain text, not HTML. In order to output real HTML, you will need to use the [v-html](https://v3.vuejs.org/api/directives.html#v-html)[directive](https://v3.vuejs.org/api/directives.html#v-html):
 
-\&lt;p\&gt;Using mustaches: {{ rawHtml }}\&lt;/p\&gt;
+_\&lt;p\&gt;Using mustaches: {{ rawHtml }}\&lt;/p\&gt;_
 
-\&lt;p\&gt;Using v-html directive: \&lt;span v-html=&quot;rawHtml&quot;\&gt;\&lt;/span\&gt;\&lt;/p\&gt;
+_\&lt;p\&gt;Using v-html directive: \&lt;span v-html=&quot;rawHtml&quot;\&gt;\&lt;/span\&gt;\&lt;/p\&gt;_
 
 The contents of the span will be replaced with the value of the rawHtml property, interpreted as plain HTML - data bindings are ignored. Note that you cannot use v-html to compose template partials, because Vue is not a string-based templating engine. Instead, components are preferred as the fundamental unit for UI reuse and composition.
 
@@ -744,13 +1167,13 @@ The disabled attribute will be included if isButtonDisabled has a truthy value. 
 
 So far we&#39;ve only been binding to simple property keys in our templates. But Vue.js actually supports the full power of JavaScript expressions inside all data bindings:
 
-{{ number + 1 }}
+_{{ number + 1 }}_
 
-{{ ok ? &#39;YES&#39; : &#39;NO&#39; }}
+_{{ ok ? &#39;YES&#39; : &#39;NO&#39; }}_
 
-{{ message.split(&#39;&#39;).reverse().join(&#39;&#39;) }}
+_{{ message.split(&#39;&#39;).reverse().join(&#39;&#39;) }}_
 
-\&lt;div v-bind:id=&quot;&#39;list-&#39; + id&quot;\&gt;\&lt;/div\&gt;
+_\&lt;div v-bind:id=&quot;&#39;list-&#39; + id&quot;\&gt;\&lt;/div\&gt;_
 
 These expressions will be evaluated as JavaScript in the data scope of the current active instance. One restriction is that each binding can only contain one single expression, so the following will NOT work:
 
@@ -760,7 +1183,7 @@ These expressions will be evaluated as JavaScript in the data scope of the curre
 
 \&lt;!-- flow control won&#39;t work either, use ternary expressions --\&gt;
 
-{{ if (ok) { return message }}}
+{{ if (ok) { return message } }}
 
 ## [#](https://v3.vuejs.org/guide/template-syntax.html#directives)Directives
 
@@ -818,33 +1241,33 @@ You&#39;ll see other examples of modifiers later, [for](https://v3.vuejs.org/gui
 
 The v- prefix serves as a visual cue for identifying Vue-specific attributes in your templates. This is useful when you are using Vue.js to apply dynamic behavior to some existing markup, but can feel verbose for some frequently used directives. At the same time, the need for the v- prefix becomes less important when you are building a [SPA](https://en.wikipedia.org/wiki/Single-page_application), where Vue manages every template. Therefore, Vue provides special shorthands for two of the most often used directives, v-bind and v-on:
 
-[#](https://v3.vuejs.org/guide/template-syntax.html#v-bind-shorthand)v-bind
+_[#](https://v3.vuejs.org/guide/template-syntax.html#v-bind-shorthand)v-bind_
 
-\&lt;!-- full syntax --\&gt;
+_\&lt;!-- full syntax --\&gt;_
 
-\&lt;a v-bind:href=&quot;url&quot;\&gt; ... \&lt;/a\&gt;
+_\&lt;a v-bind:href=&quot;url&quot;\&gt; ... \&lt;/a\&gt;_
 
-\&lt;!-- shorthand --\&gt;
+_\&lt;!-- shorthand --\&gt;_
 
-\&lt;a :href=&quot;url&quot;\&gt; ... \&lt;/a\&gt;
+_\&lt;a :href=&quot;url&quot;\&gt; ... \&lt;/a\&gt;_
 
-\&lt;!-- shorthand with dynamic argument --\&gt;
+_\&lt;!-- shorthand with dynamic argument --\&gt;_
 
-\&lt;a :[key]=&quot;url&quot;\&gt; ... \&lt;/a\&gt;
+_\&lt;a :[key]=&quot;url&quot;\&gt; ... \&lt;/a\&gt;_
 
-[#](https://v3.vuejs.org/guide/template-syntax.html#v-on-shorthand)v-on Shorthand
+_[#](https://v3.vuejs.org/guide/template-syntax.html#v-on-shorthand)v-on Shorthand_
 
-\&lt;!-- full syntax --\&gt;
+_\&lt;!-- full syntax --\&gt;_
 
-\&lt;a v-on:click=&quot;doSomething&quot;\&gt; ... \&lt;/a\&gt;
+_\&lt;a v-on:click=&quot;doSomething&quot;\&gt; ... \&lt;/a\&gt;_
 
-\&lt;!-- shorthand --\&gt;
+_\&lt;!-- shorthand --\&gt;_
 
-\&lt;a @click=&quot;doSomething&quot;\&gt; ... \&lt;/a\&gt;
+_\&lt;a @click=&quot;doSomething&quot;\&gt; ... \&lt;/a\&gt;_
 
-\&lt;!-- shorthand with dynamic argument --\&gt;
+_\&lt;!-- shorthand with dynamic argument --\&gt;_
 
-\&lt;a @[event]=&quot;doSomething&quot;\&gt; ... \&lt;/a\&gt;
+_\&lt;a @[event]=&quot;doSomething&quot;\&gt; ... \&lt;/a\&gt;_
 
 They may look a bit different from normal HTML, but : and @ are valid characters for attribute names and all Vue-supported browsers can parse it correctly. In addition, they do not appear in the final rendered markup. The shorthand syntax is totally optional, but you will likely appreciate it when you learn more about its usage later.
 
@@ -886,33 +1309,33 @@ such as Math and Date. You should not attempt to access user defined globals in 
 
 The data option for a component is a function. Vue calls this function as part of creating a new component instance. It should return an object, which Vue will then wrap in its reactivity system and store on the component instance as $data. For convenience, any top-level properties of that object are also exposed directly via the component instance:
 
-const app = Vue.createApp({
+_const app = Vue.createApp({_
 
-data(){
+_data() {_
 
-return{ count:4}
+_return { count: 4 }_
 
-}
+_}_
 
-})
+_})_
 
-const vm = app.mount(&#39;#app&#39;)
+_const vm = app.mount(&#39;#app&#39;)_
 
-console.log(vm.$data.count)// =\&gt; 4
+_console.log(vm.$data.count) // =\&gt; 4_
 
-console.log(vm.count)// =\&gt; 4
+_console.log(vm.count) // =\&gt; 4_
 
-// Assigning a value to vm.count will also update $data.count
+_// Assigning a value to vm.count will also update $data.count_
 
-vm.count =5
+_vm.count = 5_
 
-console.log(vm.$data.count)// =\&gt; 5
+_console.log(vm.$data.count) // =\&gt; 5_
 
-// ... and vice-versa
+_// ... and vice-versa_
 
-vm.$data.count =6
+_vm.$data.count = 6_
 
-console.log(vm.count)// =\&gt; 6
+_console.log(vm.count) // =\&gt; 6_
 
 These instance properties are only added when the instance is first created, so you need to ensure they are all present in the object returned by the data function. Where necessary, use null, undefined or some other placeholder value for properties where the desired value isn&#39;t yet available.
 
@@ -924,37 +1347,37 @@ Vue uses a $ prefix when exposing its own built-in APIs via the component instan
 
 To add methods to a component instance we use the methods option. This should be an object containing the desired methods:
 
-const app = Vue.createApp({
+_const app = Vue.createApp({_
 
-data() {
+_data() {_
 
-return { count: 4 }
+_return { count: 4 }_
 
-},
+_},_
 
-methods: {
+_methods: {_
 
-increment() {
+_increment() {_
 
-// `this` will refer to the component instance
+_// `this` will refer to the component instance_
 
-this.count++
+_this.count++_
 
-}
+_}_
 
-}
+_}_
 
-})
+_})_
 
-const vm = app.mount(&#39;#app&#39;)
+_const vm = app.mount(&#39;#app&#39;)_
 
-console.log(vm.count) // =\&gt; 4
+_console.log(vm.count) // =\&gt; 4_
 
-vm.increment()
+_vm.increment()_
 
-console.log(vm.count) // =\&gt; 5
+_console.log(vm.count) // =\&gt; 5_
 
-Vue automatically binds the this value for methods so that it always refers to the component instance. This ensures that a method retains the correct this value if it&#39;s used as an event listener or callback. You should avoid using arrow functions when defining methods, as that prevents Vue from binding the appropriate this value.
+Vue automatically binds the &quot;this&quot; value for methods so that it always refers to the component instance. This ensures that a method retains the correct this value if it&#39;s used as an event listener or callback. You should avoid using arrow functions when defining methods, as that prevents Vue from binding the appropriate this value.
 
 Just like all other properties of the component instance, the methods are accessible from within the component&#39;s template. Inside a template they are most commonly used as event listeners:
 
@@ -964,11 +1387,11 @@ In the example above, the method increment will be called when the \&lt;button\&
 
 It is also possible to call a method directly from a template. As we&#39;ll see shortly, it&#39;s usually better to use a [computed property](https://v3.vuejs.org/guide/computed.html) instead. However, using a method can be useful in scenarios where computed properties aren&#39;t a viable option. You can call a method anywhere that a template supports JavaScript expressions:
 
-\&lt;span :title=&quot;toTitleDate(date)&quot;\&gt;
+_\&lt;span :title=&quot;toTitleDate(date)&quot;\&gt;_
 
-{{ formatDate(date) }}
+_{{ formatDate(date) }}_
 
-\&lt;/span\&gt;
+_\&lt;/span\&gt;_
 
 If the methods toTitleDate or formatDate access any reactive data then it will be tracked as a rendering dependency, just as if it had been used in the template directly.
 
@@ -980,69 +1403,69 @@ Vue doesn&#39;t include built-in support for debouncing or throttling but it can
 
 In cases where a component is only used once, the debouncing can be applied directly within methods:
 
-\&lt;script src=&quot;https://unpkg.com/lodash@4.17.20/lodash.min.js&quot;\&gt;\&lt;/script\&gt;
+_\&lt;script src=&quot;https://unpkg.com/lodash@4.17.20/lodash.min.js&quot;\&gt;\&lt;/script\&gt;_
 
-\&lt;script\&gt;
+_\&lt;script\&gt;_
 
-Vue.createApp({
+_Vue.createApp({_
 
-methods: {
+_methods: {_
 
-// Debouncing with Lodash
+_// Debouncing with Lodash_
 
-click: \_.debounce(function() {
+_click: \_.debounce(function() {_
 
-// ... respond to click ...
+_// ... respond to click ..._
 
-}, 500)
+_}, 500)_
 
-}
+_}_
 
-}).mount(&#39;#app&#39;)
+_}).mount(&#39;#app&#39;)_
 
-\&lt;/script\&gt;
+_\&lt;/script\&gt;_
 
 However, this approach is potentially problematic for components that are reused because they&#39;ll all share the same debounced function. To keep the component instances independent from each other, we can add the debounced function in the created lifecycle hook:
 
-app.component(&#39;save-button&#39;, {
+_app.component(&#39;save-button&#39;, {_
 
-created() {
+_created() {_
 
-// Debouncing with Lodash
+_// Debouncing with Lodash_
 
-this.debouncedClick = \_.debounce(this.click, 500)
+_this.debouncedClick = \_.debounce(this.click, 500)_
 
-},
+_},_
 
-unmounted() {
+_unmounted() {_
 
-// Cancel the timer when the component is removed
+_// Cancel the timer when the component is removed_
 
-this.debouncedClick.cancel()
+_this.debouncedClick.cancel()_
 
-},
+_},_
 
-methods: {
+_methods: {_
 
-click() {
+_click() {_
 
-// ... respond to click ...
+_// ... respond to click ..._
 
-}
+_}_
 
-},
+_},_
 
-template: `
+_template: `_
 
-\&lt;button @click=&quot;debouncedClick&quot;\&gt;
+_\&lt;button @click=&quot;debouncedClick&quot;\&gt;_
 
-Save
+_Save_
 
-\&lt;/button\&gt;
+_\&lt;/button\&gt;_
 
-`
+_`_
 
-})
+_})_
 
 # Computed Properties and Watchers
 
@@ -1050,43 +1473,43 @@ Save
 
 In-template expressions are very convenient, but they are meant for simple operations. Putting too much logic in your templates can make them bloated and hard to maintain. For example, if we have an object with a nested array:
 
-Vue.createApp({
+_Vue.createApp({_
 
-data(){
+_data() {_
 
-return{
+_return {_
 
-author:{
+_author: {_
 
-name:&#39;John Doe&#39;,
+_name: &#39;John Doe&#39;,_
 
-books:[
+_books: [_
 
-&#39;Vue 2 - Advanced Guide&#39;,
+_&#39;Vue 2 - Advanced Guide&#39;,_
 
-&#39;Vue 3 - Basic Guide&#39;,
+_&#39;Vue 3 - Basic Guide&#39;,_
 
-&#39;Vue 4 - The Mystery&#39;
+_&#39;Vue 4 - The Mystery&#39;_
 
-]
+_]_
 
-}
+_}_
 
-}
+_}_
 
-}
+_}_
 
-})
+_})_
 
 And we want to display different messages depending on if author already has some books or not
 
-\&lt;div id=&quot;computed-basics&quot;\&gt;
+_\&lt;div id=&quot;computed-basics&quot;\&gt;_
 
-\&lt;p\&gt;Has published books:\&lt;/p\&gt;
+_\&lt;p\&gt;Has published books:\&lt;/p\&gt;_
 
-\&lt;span\&gt;{{ author.books.length \&gt; 0 ? &#39;Yes&#39; : &#39;No&#39; }}\&lt;/span\&gt;
+_\&lt;span\&gt;{{ author.books.length \&gt; 0 ? &#39;Yes&#39; : &#39;No&#39; }}\&lt;/span\&gt;_
 
-\&lt;/div\&gt;
+_\&lt;/div\&gt;_
 
 At this point, the template is no longer simple and declarative. You have to look at it for a second before realizing that it performs a calculation depending on author.books. The problem is made worse when you want to include this calculation in your template more than once.
 
@@ -1094,55 +1517,55 @@ That&#39;s why for complex logic that includes reactive data, you should use a c
 
 ### [#](https://v3.vuejs.org/guide/computed.html#basic-example)Basic Example
 
-\&lt;div id=&quot;computed-basics&quot;\&gt;
+_\&lt;div id=&quot;computed-basics&quot;\&gt;_
 
-\&lt;p\&gt;Has published books:\&lt;/p\&gt;
+_\&lt;p\&gt;Has published books:\&lt;/p\&gt;_
 
-\&lt;span\&gt;{{ publishedBooksMessage }}\&lt;/span\&gt;
+_\&lt;span\&gt;{{ publishedBooksMessage }}\&lt;/span\&gt;_
 
-\&lt;/div\&gt;
+_\&lt;/div\&gt;_
 
-Vue.createApp({
+_Vue.createApp({_
 
-data(){
+_data() {_
 
-return{
+_return {_
 
-author:{
+_author: {_
 
-name:&#39;John Doe&#39;,
+_name: &#39;John Doe&#39;,_
 
-books:[
+_books: [_
 
-&#39;Vue 2 - Advanced Guide&#39;,
+_&#39;Vue 2 - Advanced Guide&#39;,_
 
-&#39;Vue 3 - Basic Guide&#39;,
+_&#39;Vue 3 - Basic Guide&#39;,_
 
-&#39;Vue 4 - The Mystery&#39;
+_&#39;Vue 4 - The Mystery&#39;_
 
-]
+_]_
 
-}
+_}_
 
-}
+_}_
 
-},
+_},_
 
-computed:{
+_computed: {_
 
-// a computed getter
+_// a computed getter_
 
-publishedBooksMessage(){
+_publishedBooksMessage() {_
 
-// `this` points to the vm instance
+_// `this` points to the vm instance_
 
-returnthis.author.books.length \&gt;0?&#39;Yes&#39;:&#39;No&#39;
+_return this.author.books.length \&gt; 0 ? &#39;Yes&#39; : &#39;No&#39;_
 
-}
+_}_
 
-}
+_}_
 
-}).mount(&#39;#computed-basics&#39;)
+_}).mount(&#39;#computed-basics&#39;)_
 
 Result:
 
@@ -1156,33 +1579,33 @@ You can data-bind to computed properties in templates just like a normal propert
 
 You may have noticed we can achieve the same result by invoking a method in the expression:
 
-\&lt;p\&gt;{{ calculateBooksMessage() }}\&lt;/p\&gt;
+_\&lt;p\&gt;{{ calculateBooksMessage() }}\&lt;/p\&gt;_
 
-// in component
+_// in component_
 
-methods:{
+_methods: {_
 
-calculateBooksMessage(){
+_calculateBooksMessage() {_
 
-returnthis.author.books.length \&gt;0?&#39;Yes&#39;:&#39;No&#39;
+_return this.author.books.length \&gt; 0 ? &#39;Yes&#39; : &#39;No&#39;_
 
-}
+_}_
 
-}
+_}_
 
 Instead of a computed property, we can define the same function as a method. For the end result, the two approaches are indeed exactly the same. However, the difference is that computed properties are cached based on their reactive dependencies. A computed property will only re-evaluate when some of its reactive dependencies have changed. This means as long as author.books has not changed, multiple access to the publishedBooksMessage computed property will immediately return the previously computed result without having to run the function again.
 
 This also means the following computed property will never update, because Date.now() is not a reactive dependency:
 
-computed:{
+_computed: {_
 
-now(){
+_now() {_
 
-return Date.now()
+_return Date.now()_
 
-}
+_}_
 
-}
+_}_
 
 In comparison, a method invocation will always run the function whenever a re-render happens.
 
@@ -1192,37 +1615,37 @@ Why do we need caching? Imagine we have an expensive computed property list, whi
 
 Computed properties are by default getter-only, but you can also provide a setter when you need it:
 
-// ...
+_// ..._
 
-computed:{
+_computed: {_
 
-fullName:{
+_fullName: {_
 
-// getter
+_// getter_
 
-get(){
+_get() {_
 
-returnthis.firstName +&#39; &#39;+this.lastName
+_return this.firstName + &#39; &#39; + this.lastName_
 
-},
+_},_
 
-// setter
+_// setter_
 
-set(newValue){
+_set(newValue) {_
 
-const names = newValue.split(&#39; &#39;)
+_const names = newValue.split(&#39; &#39;)_
 
-this.firstName = names[0]
+_this.firstName = names[0]_
 
-this.lastName = names[names.length -1]
+_this.lastName = names[names.length - 1]_
 
-}
+_}_
 
-}
+_}_
 
-}
+_}_
 
-// ...
+_// ..._
 
 Now when you run vm.fullName = &#39;John Doe&#39;, the setter will be invoked and vm.firstName and vm.lastName will be updated accordingly.
 
@@ -1232,91 +1655,91 @@ While computed properties are more appropriate in most cases, there are times wh
 
 For example:
 
-\&lt;div id=&quot;watch-example&quot;\&gt;
+_\&lt;div id=&quot;watch-example&quot;\&gt;_
 
-\&lt;p\&gt;
+_\&lt;p\&gt;_
 
-Ask a yes/no question:
+_Ask a yes/no question:_
 
-\&lt;input v-model=&quot;question&quot;/\&gt;
+_\&lt;input v-model=&quot;question&quot; /\&gt;_
 
-\&lt;/p\&gt;
+_\&lt;/p\&gt;_
 
-\&lt;p\&gt;{{ answer }}\&lt;/p\&gt;
+_\&lt;p\&gt;{{ answer }}\&lt;/p\&gt;_
 
-\&lt;/div\&gt;
+_\&lt;/div\&gt;_
 
-\&lt;!-- Since there is already a rich ecosystem of ajax libraries --\&gt;
+_\&lt;!-- Since there is already a rich ecosystem of ajax libraries --\&gt;_
 
-\&lt;!-- and collections of general-purpose utility methods, Vue core --\&gt;
+_\&lt;!-- and collections of general-purpose utility methods, Vue core --\&gt;_
 
-\&lt;!-- is able to remain small by not reinventing them. This also --\&gt;
+_\&lt;!-- is able to remain small by not reinventing them. This also --\&gt;_
 
-\&lt;!-- gives you the freedom to use what you&#39;re familiar with. --\&gt;
+_\&lt;!-- gives you the freedom to use what you&#39;re familiar with. --\&gt;_
 
-\&lt;script src=&quot;https://cdn.jsdelivr.net/npm/axios@0.12.0/dist/axios.min.js&quot;\&gt;\&lt;/script\&gt;
+_\&lt;script src=&quot;https://cdn.jsdelivr.net/npm/axios@0.12.0/dist/axios.min.js&quot;\&gt;\&lt;/script\&gt;_
 
-\&lt;script\&gt;
+_\&lt;script\&gt;_
 
-const watchExampleVM = Vue.createApp({
+_const watchExampleVM = Vue.createApp({_
 
-data(){
+_data() {_
 
-return{
+_return {_
 
-question:&#39;&#39;,
+_question: &#39;&#39;,_
 
-answer:&#39;Questions usually contain a question mark. ;-)&#39;
+_answer: &#39;Questions usually contain a question mark. ;-)&#39;_
 
-}
+_}_
 
-},
+_},_
 
-watch:{
+_watch: {_
 
-// whenever question changes, this function will run
+_// whenever question changes, this function will run_
 
-question(newQuestion, oldQuestion){
+_question(newQuestion, oldQuestion) {_
 
-if(newQuestion.indexOf(&#39;?&#39;)\&gt;-1){
+_if (newQuestion.indexOf(&#39;?&#39;) \&gt; -1) {_
 
-this.getAnswer()
+_this.getAnswer()_
 
-}
+_}_
 
-}
+_}_
 
-},
+_},_
 
-methods:{
+_methods: {_
 
-getAnswer(){
+_getAnswer() {_
 
-this.answer =&#39;Thinking...&#39;
+_this.answer = &#39;Thinking...&#39;_
 
-axios
+_axios_
 
-.get(&#39;https://yesno.wtf/api&#39;)
+_.get(&#39;https://yesno.wtf/api&#39;)_
 
-.then(response =\&gt;{
+_.then(response =\&gt; {_
 
-this.answer = response.data.answer
+_this.answer = response.data.answer_
 
-})
+_})_
 
-.catch(error =\&gt;{
+_.catch(error =\&gt; {_
 
-this.answer =&#39;Error! Could not reach the API. &#39;+ error
+_this.answer = &#39;Error! Could not reach the API. &#39; + error_
 
-})
+_})_
 
-}
+_}_
 
-}
+_}_
 
-}).mount(&#39;#watch-example&#39;)
+_}).mount(&#39;#watch-example&#39;)_
 
-\&lt;/script\&gt;
+_\&lt;/script\&gt;_
 
 Result:
 
@@ -1328,69 +1751,69 @@ In addition to the watch option, you can also use the imperative [vm.$watch API]
 
 Vue does provide a more generic way to observe and react to data changes on a current active instance: watch properties. When you have some data that needs to change based on some other data, it is tempting to overuse watch - especially if you are coming from an AngularJS background. However, it is often a better idea to use a computed property rather than an imperative watch callback. Consider this example:
 
-\&lt;div id=&quot;demo&quot;\&gt;{{ fullName }}\&lt;/div\&gt;
+_\&lt;div id=&quot;demo&quot;\&gt;{{ fullName }}\&lt;/div\&gt;_
 
-const vm = Vue.createApp({
+_const vm = Vue.createApp({_
 
-data(){
+_data() {_
 
-return{
+_return {_
 
-firstName:&#39;Foo&#39;,
+_firstName: &#39;Foo&#39;,_
 
-lastName:&#39;Bar&#39;,
+_lastName: &#39;Bar&#39;,_
 
-fullName:&#39;Foo Bar&#39;
+_fullName: &#39;Foo Bar&#39;_
 
-}
+_}_
 
-},
+_},_
 
-watch:{
+_watch: {_
 
-firstName(val){
+_firstName(val) {_
 
-this.fullName = val +&#39; &#39;+this.lastName
+_this.fullName = val + &#39; &#39; + this.lastName_
 
-},
+_},_
 
-lastName(val){
+_lastName(val) {_
 
-this.fullName =this.firstName +&#39; &#39;+ val
+_this.fullName = this.firstName + &#39; &#39; + val_
 
-}
+_}_
 
-}
+_}_
 
-}).mount(&#39;#demo&#39;)
+_}).mount(&#39;#demo&#39;)_
 
 The above code is imperative and repetitive. Compare it with a computed property version:
 
-const vm = Vue.createApp({
+_const vm = Vue.createApp({_
 
-data(){
+_data() {_
 
-return{
+_return {_
 
-firstName:&#39;Foo&#39;,
+_firstName: &#39;Foo&#39;,_
 
-lastName:&#39;Bar&#39;
+_lastName: &#39;Bar&#39;_
 
-}
+_}_
 
-},
+_},_
 
-computed:{
+_computed: {_
 
-fullName(){
+_fullName() {_
 
-returnthis.firstName +&#39; &#39;+this.lastName
+_return this.firstName + &#39; &#39; + this.lastName_
 
-}
+_}_
 
-}
+_}_
 
-}).mount(&#39;#demo&#39;)
+_}).mount(&#39;#demo&#39;)_
 
 Much better, isn&#39;t it?
 
@@ -1741,14 +2164,6 @@ v-if is also lazy: if the condition is false on initial render, it will not do a
 In comparison, v-show is much simpler - the element is always rendered regardless of initial condition, with CSS-based toggling.
 
 Generally speaking, v-if has higher toggle costs while v-show has higher initial render costs. So prefer v-show if you need to toggle something very often, and prefer v-if if the condition is unlikely to change at runtime.
-
-## [#](https://v3.vuejs.org/guide/conditional.html#v-if-with-v-for)v-if with v-for
-
-Note
-
-Using v-if and v-for together is not recommended. See the [style guide](https://v3.vuejs.org/style-guide/#avoid-v-if-with-v-for-essential) for further information.
-
-When v-if and v-for are both used on the same element, v-if will be evaluated first. See the [list rendering guide](https://v3.vuejs.org/guide/list#v-for-with-v-if) for details.
 
 # List Rendering
 
@@ -2181,602 +2596,3 @@ emits:[&#39;remove&#39;]
 })
 
 app.mount(&#39;#todo-list-example&#39;)
-
-# Main Files
-
-## App.vue
-
-App.vue is a Single File Component and is a great way to create self-contained components that have all they need in a single file. We have the markup, the JavaScript that is going to interact with it, and style that&#39;s applied to it, which can be scoped, or not. In this case, it&#39;s not scoped, and it&#39;s just outputting that CSS which is applied like regular CSS to the page. The interesting part lies in the script tag where all relevant components are declared as a dependency. ![](RackMultipart20210310-4-fcaz0h_html_8d432fe38af9822e.png)
-
-When a Vue instance is created, it adds all the properties found in its data object to Vue&#39;s reactivity system. When the values of those properties change, the view will &quot;react&quot;, updating to match the new values. When \&lt;\&lt; data \&gt;\&gt; changes, the view will re-render. It should be noted that properties in data are only reactive if they existed when the instance was created.
-
-VBUS - custom event bus for letting unrelated components talk to each other. Initialize Top bar, footer, relevant theme scss file and relevant styling class(es)
-
-## Miniwin.vue
-
-All key components along with agrs &amp; necessary transitions to form a Mini Window for Projects Platform. It is one the key components along with TopBar, Big Window, Application Dialog, Popup &amp; Message components to show the information and preview Project data.
-
-## Msg.vue
-
-Leverage UserCard for displaying messages of the passed argument with appropriate transitions.
-
-## BigWin.vue
-
-We can use the v-on directive to listen to DOM events and run some JavaScript when they&#39;re triggered. Detects the mode in which the Projects platform is being utilized.
-
-## **TopBar.vue**
-
-TopBar components with the relevant logo information (based on organizations) along with portal language, search portal button with material icons for small display sizes, online help documentation along with project category icon. Google login button redirects them to keycloak login, logout windows based on user authentication status. The TopBar is a shared component that includes organization brand collaterals (conditional logo &amp; branding), portal language (currently English, French &amp; Simplified Chinese), search (currently database search not elastic search), contextual help (end user documentation) and user&#39;s profile avatar and name(if user is logged in).
-
-![](RackMultipart20210310-4-fcaz0h_html_d0f4517a60ada609.png)
-
-## **Main.css**
-
-Key CSS file for #APP and other key views stylings.
-
-## **Main.js**
-
-Key js consequential file where the Projects platform starts. The external libraries like JQuery, Leaflet, Bulma, Axios etc. are imported in main.js. This is where the global inter component communication bus **VBUS** is initialized along with pre-configuring Axios according to the organization id .
-
-Computed properties let perform complex operations or data formatting while maximizing performance with dependency calculations that only update the view when a dependency changes. This feature is synchronous. However, we leverage the _vue-async-computed_ package to create and consume asynchronous computed properties in projects&#39; components by binding the resolved value of a Promise to a component property.
-
-The **Translate** function uses Translate JSON file to make Projects platform multilingual to include multiple labels in multiple languages to be swapped on user selection. The toHtmlTB function makes addition or deletion of language(s) easy &amp; modular.
-
-This is the file that initializes export of Global Shared Object (GS) as a substitute for state handling external libraries like Vuex. The object seeds the categories according to the organizations along with the API data properties linked to the user(people) and the organization. We use [**URLSearchParams**](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams) to define utility methods to work with the query string of a URL. GS object implementing URLSearchParams can directly be used in a &quot;for...of&quot; structure that allows us to manipulate the state and check connection by returning the first value associated with the given search parameter and allowing iteration through all keys of the key/value pairs contained in this object. Key point to note is that URLSearchParams constructor does not parse full URLs. However, it will strip an initial leading ? off of a string, if present.
-
-The **history**. **replaceState** () method modifies the current history entry, replacing it with the stateObj, title, and URL passed in the method parameters. This method is particularly useful when you want to update the state object or URL of the current history entry in response to some user action.
-
-![](RackMultipart20210310-4-fcaz0h_html_d3ee22e7f82e4974.png)
-
-We leverage AXIOS post to send bearer tokens where the first parameter is the URL. The second is the JSON body that will be sent along the request. The third parameter are the headers (among other things), which is JSON as well.
-
-![](RackMultipart20210310-4-fcaz0h_html_5d76e8657be4643c.png)
-
-The same helps ascertain users authorization levels and check the connection loop to initialize Projects Platform in the right state based on user&#39;s authorization &amp; authentication level. Projects Platform application uses function **initProjects** () to configure all the global Axios defaults. [Axios interceptors](https://github.com/axios/axios#interceptors) intercept requests or responses before they are handled by then or catch. The interceptors are used to append every request with XSRF tokens for security and to catch all global errors and return AMIGA guru meditation errors(What!!!) linked with 401, 403, 417, 422, 501 error codes. Key thing to note is that the request interceptors are presumed to be asynchronous by default. This can cause a delay in the execution of the axios request when the main thread is blocked (a promise is created under the hood for the interceptor and the request gets put on the bottom of the call stack). If request interceptors are synchronous we could add a flag to the options object that will tell axios to run the code synchronously and avoid any delays in request execution. The initialize function sets the current theme, portal language and relevant organization parameters including main categories, stylings.
-
-## **Router.js**
-
-Router file leverages Vue Router to put all the Projects platform components in hierarchy explicitly mentioning child parent relationships (route nesting). The key part to focus on in this file is that the routes of our Vue app are defined via an array that contains objects. Each route object contains three key properties:
-
-- Path - what URL should match to the component.
-- Name - what this route should be named for labeling and debugging purposes.
-- Component - the component that should be displayed when the path is matched.
-
-routes: [
-
-{
-
-path: &#39;/&#39;,
-
-name: &#39;Home&#39;,
-
-component: pageHome
-
-},
-
-{
-
-path: &#39;/logout&#39;,
-
-beforeEnter() { location.href=GS.apisrv+&#39;/logout?home=&#39;+ btoa(window.location.origin) }
-
-},
-
-{
-
-path: &#39;/me&#39;,
-
-name: &#39;myhomepage&#39;,
-
-component: pageMe,
-
-children: [
-
-{ path: &#39;followed&#39;,
-
-name: &quot;followed&quot;,
-
-component: subMeFollowed,
-
-},
-
-{ path: &#39;myprojects&#39;,
-
-name: &quot;myprojects&quot;,
-
-component: subMeMyProjects,
-
-},
-
-{ path: &#39;toreview&#39;,
-
-name: &quot;toreview&quot;,
-
-component: subMeReviewed,
-
-},
-
-]
-
-},
-
-{
-
-path: &#39;/admin&#39;,
-
-name: &#39;Admin&#39;,
-
-component: pageAdmin,
-
-children: [
-
-{ path: &#39;portal&#39;,
-
-name: &quot;portal&quot;,
-
-component: PortalAdmin,
-
-children: [
-
-{
-
-path: &#39;general&#39;,
-
-name: &quot;general&quot;,
-
-component: PortalGeneralAdmin,
-
-},
-
-{
-
-path: &#39;concepts&#39;,
-
-name: &quot;concepts&quot;,
-
-component: ConceptsAdmin,
-
-},
-
-{
-
-path: &#39;types&#39;,
-
-name: &quot;types&quot;,
-
-component: TypesAdmin,
-
-}
-
-]
-
-},
-
-{ path: &#39;contents&#39;,
-
-name: &quot;contents&quot;,
-
-component: ContentAdmin,
-
-},
-
-{ path: &#39;users&#39;,
-
-name: &quot;users&quot;,
-
-component: UserAdmin,
-
-}
-
-]
-
-},
-
-{
-
-path: &#39;/repo/&#39;,
-
-name: &#39;type&#39;,
-
-component: pageCat,
-
-props: true
-
-},
-
-{
-
-path: &#39;/repo/:type&#39;,
-
-name: &#39;type&#39;,
-
-component: pageCat,
-
-props: true
-
-},
-
-{
-
-path: &#39;/projects&#39;,
-
-name: &#39;projects&#39;,
-
-component: pageBrowse,
-
-},
-
-{
-
-path: &#39;/map&#39;,
-
-name: &#39;map&#39;,
-
-component: pageMap,
-
-},
-
-{
-
-path: &#39;/concepts-map&#39;,
-
-name: &#39;concepts-map&#39;,
-
-component: ConceptsMap
-
-},
-
-{
-
-path: &#39;/projects/:id&#39;,
-
-name: &#39;pageproject&#39;,
-
-component: pageProject,
-
-children: [
-
-{ path: &#39;summary&#39;,
-
-name: &quot;projectsummary&quot;,
-
-component: subProjectSummary,
-
-},
-
-{ path: &#39;des&#39;,
-
-name: &quot;projectdes&quot;,
-
-component: subProjectDes,
-
-},
-
-{ path: &#39;blogentries&#39;,
-
-name: &quot;projectblog&quot;,
-
-component: subProjectBlog,
-
-},
-
-{ path: &#39;goals&#39;,
-
-name: &quot;projectgoals&quot;,
-
-component: subProjectGoals,
-
-},
-
-{ path: &#39;team&#39;,
-
-name: &quot;projectteam&quot;,
-
-component: subProjectTeam,
-
-},
-
-{ path: &#39;ressources&#39;,
-
-name: &quot;projectressources&quot;,
-
-component: subProjectRes,
-
-},
-
-{ path: &#39;comments&#39;,
-
-name: &quot;projectcomments&quot;,
-
-component: subProjectComments,
-
-},
-
-]
-
-},
-
-{
-
-path: &#39;/editproject/:id&#39;,
-
-component: pageEditProject,
-
-children: [
-
-{ path: &#39;general&#39;,
-
-name: &quot;editproject&quot;,
-
-component: subEditProjectGen,
-
-},
-
-]
-
-},
-
-{
-
-path: &#39;/stats&#39;,
-
-name: &quot;stat&quot;,
-
-component: Stat
-
-}
-
-]
-
-})
-
-## **AppDialog.vue**
-
-Parent component of Gallery &amp; Video provider chooser components that allows inclusion of Image gallery &amp; Video embed components.
-
-## **PopUp.vue**
-
-Parent component for Error, Info &amp; Progress components with mode &amp; arguments as props with relevant transitions.
-
-# Shared Components
-
-### Admin Sidebar
-
-#### Admin Routes (js)
-
-#### Admin Sidebar (vue)
-
-#### Menu Item (vue)
-
-# Functions
-
-### API
-
-### Organizations Services (js)
-
-Specific file for retrieving &amp; updating leveraging AXIOS Get &amp; Patch operations. The filter for fetching organisations according to concepts and using getAxiosConfig with etag token for updating respective organizations passing the formData as an argument from the Portal general Admin component.
-
-### Types Services (js)
-
-Specialized file for projects&#39; types that helps projects platform users thematically differentiate the projects. There CRUD operations around the project types that are synchronous(mainly get(getType) and filter operations by respective organizations(getTypesByOrg)) or asynchronous leveraging Axios post(addType), patch(updateType), delete(deleteType).
-
-### API services (js)
-
-Central definition for all the relevant functions that are utilized across the Projects platform code including Image upload, file upload, search in PeopleAPI, get specific user, wiki concepts (category) &amp; project, publish projects, project CRUD dispositions, project categories, blog entries, SDGs, 3rd party resources, project reviews &amp; comments, organization(s) and make GET, POST, PATCH, DELETE request(s) using Axios to get, push, patch, post and delete data to/from a given endpoint and trigger events.
-
-Imports Global shared(GS) object and utilizes a 3rd party library like Axios that is an HTTP client library which uses promises by default and runs on both the client and the server, which makes it appropriate for fetching data during server-side rendering. Because it uses promises, we combine it with async/await to get a concise and easy-to-use API.
-
-### Constants (js)
-
-Declare constants in a separate constants.js file which we can require into the other Vue component:
-
-- Sustainable Development Goals(SDG) Codes
-- SDG labels
-- SDG Colors
-- Months
-- Media file Upload Constraints
-
-### Dotatlas (js)
-
-dotAtlas is a JavaScript library for interactive exploration of 2d point collections. dotAtlas can produce zoomable visualizations similar to the one shown below. They combine various types of layers, such as elevations, markers or labels, to produce an attractive map-like presentation of your data.
-
-![](RackMultipart20210310-4-fcaz0h_html_d04864ca03764aa3.jpg)
-
-![](RackMultipart20210310-4-fcaz0h_html_237499165a11f2b9.gif)
-
-dotAtlas, in essence, is a map-like visualization of 2d points for browsers.
-
-- Customizable colors, sizes, shapes, opacities, elevations and textual labels for all the points.
-- Independent control of the elevations, markers, outline and label layers.
-- Built-in finding clusters of nearby points for easy multi-point hover and selection.
-- WebGL-based implementation for 60 FPS interaction animations, also with large data sets.
-
-There are three ways to get started with dotAtlas:
-
-- [Quick start](https://get.carrotsearch.com/dotatlas/latest/doc/quick-start/): setting up your first simple dotAtlas visualization with a minimal amount of code.
-- Guides: in-depth articles covering various aspects of dotAtlas, such as [requirements](https://get.carrotsearch.com/dotatlas/latest/doc/requirements/), [installation](https://get.carrotsearch.com/dotatlas/latest/doc/installation/), [API overview](https://get.carrotsearch.com/dotatlas/latest/doc/api-overview/), [defining layers](https://get.carrotsearch.com/dotatlas/latest/doc/defining-layers/), [listening to events](https://get.carrotsearch.com/dotatlas/latest/doc/listening-to-events/) and more.
-- [Tutorial](https://get.carrotsearch.com/dotatlas/latest/doc/tutorial/): step by step instructions on building a more complex dotAtlas visualization, including: layer set-up, handling user interactions and implementing hover and selection highlights.
-
-Finally, the [API](https://get.carrotsearch.com/dotatlas/latest/doc/api-common/)[references](https://get.carrotsearch.com/dotatlas/latest/doc/api-dotatlas/) contain details on all the available options and methods.
-
-### Functions (js)
-
-Key functions that export the authorization and authentication of the user and provide appropriate privileges including project edit, publish &amp; review rights to the user and relevant project(s). Key functions to copy objects simply, user authentication &amp; authorization with regards to the Project resources, check email; URL validity etc.
-
-# Pages
-
-## Admin Pages
-
-## Sub Pages - Components
-
-## Main Pages - Components
-
-# Window Components
-
-## Application Dialogs
-
-### Gallery.vue
-
-Dedicated component uploading images to the project from the local system and prompts warning text when there aren&#39;t any images linked with the project. The component methods include add images, select images, insert images, cancel select images, get image details, load images, delete images with relevant transitions. Load Images (loadImagesPrevNext) leverages Axios GET to immediately send requests to the server including image meta information. ![](RackMultipart20210310-4-fcaz0h_html_f077cc73db64adf8.png)
-
-![](RackMultipart20210310-4-fcaz0h_html_e16d643254e4f464.png)
-
-### VideoProviderChooser.vue
-
-Dedicated component to choose videos to the project from the local system and prompts warning text when there aren&#39;t any images linked with the project. The component methods include validate video links, add video, add images, select video, insert videos, cancel select, get video details, load video, delete video with relevant transitions. Validate video links (validateVideoLink) leverages Axios GET to immediately send requests to the server including links meta information. The function checks the URL validity if the whole URL gets entered or just the shortid of Vimeo or YouTube.
-
-![](RackMultipart20210310-4-fcaz0h_html_1e9f987a764472b.png)
-
-## Mini Windows
-
-### Copy.vue
-
-Specific component for copying resources &amp; cancel using copyObj and runCB methods emitting mini window through custom event bus (VBUS).
-
-![](RackMultipart20210310-4-fcaz0h_html_1d4b755a928dd0d0.png)
-
-### CopyLink.vue
-
-The component that is used in the Project Blog component to copy the link of an added blog entry for easy sharing. The same leverages Props argument to get event &amp; linkid from ProjectBlog.vue to construct the URL(makelink) in format: window.location.origin + &quot;/projects/&quot; + GS.currentprojectid +&quot;/blogentries?b=&quot;+self.args.linkid (e.g. [https://dev.cri-paris.org:43103/projects/VCstJe3S/blogentries?b=603f5697cfd658c33a1b5d51](https://dev.cri-paris.org:43103/projects/VCstJe3S/blogentries?b=603f5697cfd658c33a1b5d51))
-
-![](RackMultipart20210310-4-fcaz0h_html_1fd39c9ea37b6c73.png)
-
-### EditResFile.vue
-
-Specific component to edit each of the file resources using patchRes method through custom event bus (VBUS). The component uses respatch function and passes current obj.\_id along with modified data to the api respatch function.
-
-### ![](RackMultipart20210310-4-fcaz0h_html_ea3bf94f465c7f20.png)
-
-### Edit ResLink.vue
-
-Specific component to edit each of the URL link resources using patchRes method through custom event bus (VBUS). The component uses respatch function and passes current obj.\_id, along with modified data to the api respatch function. The component loops through link categories (resource categories) from the constants file.
-
-![](RackMultipart20210310-4-fcaz0h_html_dc766100d150854e.png)
-
-### EditResProject.vue
-
-Specific component for the mini window to edit each of the Project resources using patchRes method through custom event bus (VBUS). The component uses respatch function and passes current obj.\_id, along with modified data to the api respatch function. The component loops through link categories along with project categories (resource categories from English &amp; French) from the constants file. The same also includes TextInput from shared components to allow the user to annotate the link reason.
-
-![](RackMultipart20210310-4-fcaz0h_html_771c68478cc75ce8.png)
-
-### MiniInfo.vue
-
-Specific component for passing content title &amp; description as argument content&#39;s title &amp; description to Mini window component.
-
-##### ![](RackMultipart20210310-4-fcaz0h_html_e175eddfcddc48c6.png)
-
-### UnsavedData.vue
-
-Specific component for confirming unsaved data of resource using runCB methods emitting mini window close through custom event bus (VBUS).
-
-### YesNo.vue
-
-Specific component for confirming deletion of resource using runCB methods emitting mini window close through custom event bus (VBUS).
-
-![](RackMultipart20210310-4-fcaz0h_html_f570a7cfc1d7555a.png)
-
-#####
-
-## Popup Windows
-
-# Translation Files
-
-# Routing
-
-# Transitions &amp; Animations
-
-# External Libraries
-
-### Vue.js
-
-[Vue.js](https://vuejs.org/) is a javascript web framework.
-
-### TipTap
-
-[TipTap](https://github.com/ueberdosis/tiptap) is a toolkit for building text editors. We are using the vue package for TipTap. TipTap is an extension to [ProseMirror](https://prosemirror.net/) that allows you to create new schemas directly in a vue way.
-
-This editor is used to edit a project&#39;s description or blog post.
-
-### Vue Leaflet
-
-[Vue Leaflet](https://vue2-leaflet.netlify.app/) is a vue package built on Leaflet.
-
-Leaflet is a strong package to build maps and interact with it.
-
-### Vue Color
-
-[Vue Color](https://github.com/xiaokaike/vue-color) is a vue color picker package. It provides a different picker from simple hex code to color choice with opacity.
-
-We are using it to let organization administrators select a background color for categories.
-
-### Axios
-
-[Axios](https://github.com/axios/axios) is an Http client.
-
-We are using it to manage HTTP calls to our API. It is based on promise.
-
-### Drag and resize
-
-[vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) is a package made for image resizing and dragging.
-
-We are using it on blog post and description when user upload images or videos
-
-### Bulma
-
-[Bulma](https://bulma.io/) is a CSS framework. We are using the basic version for responsibility and basic component class : Button, Grid etc.
-
-We are also using some components of [Bulma extension](https://bulma.io/extensions/) that bring css/js components like tooltip.
-
-### ChartJs
-
-[vue-chartjs](https://vue-chartjs.org/) is a vue wrapper to Chart.js
-
-We are using it to build chart in Stats page
-
-# State Management
-
-# Server side Rendering
-
-# Backend APIs
-
-### ### api
-
-APIs are registered here. Eve hooks and initialisation.
-
-### ### Authentication
-
-Endpoints about authentication are in `api_auth.py`. 2 authentication was available : CRIID and OPENID. CRIIS is legacy and only OPENID should be used. It should be move in /auth folder
-
-### ### api\_cstm
-
-This file contains all endpoints that are not handled by Eve. Those endpoints are built with Flask and the required package depends on what the service needs to do.
-
-### ### api\_funct
-
-api\_funct\_sec, api\_funct\_mail, api\_funct\_db Tools function. It would be a good idea to create a tools folder and put those file with a better naming
-
-### ### api\_private
-
-Endpoints for server authentication or IP restricted. Used for internal apps communication or client that need to consume data (eg. Organizations)
-
-### ### ref
-
-Reference API. Built to generate accessible projects pages for scrapping (like a custom Server-side-rendering). It will generate meta and project&#39;s images.
-
-### ### settings
-
-Eve configuration file. DB model are represent here with schema and allowed HTTP VERB
-
-### ### migrations
-
-It should contain all DB and file migration. Naming must be link to the version where the migration is needed (eg. v0.3.1)
-
-### ### exceptions
-
-It should contains python specific exceptions we create
-
-### ### TPL
-
-Should contain a flask template. There are used mainly for emails
-
--------------------------
